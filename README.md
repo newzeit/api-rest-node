@@ -5,3 +5,5 @@
 ```shell
 npm install
 ```
+
+Revisar qué es lo que hace y eliminarlo o continuarlo
